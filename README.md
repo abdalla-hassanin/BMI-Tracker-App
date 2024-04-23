@@ -2,17 +2,17 @@
 
 A new Flutter project.
 
-## Video Demo
-
-[Video](https://github.com/abdalla-hassanin/BMI-Tracker-App/blob/master/Bmiapp-1.mp4)
-
-
 ## Download
 
 You can download the latest version of the app from the following link:
 
 [Download APK](https://github.com/abdalla-hassanin/BMI-Tracker-App/blob/master/app-release.apk)
 
+#User fake: 
+
+abd@gmail.com
+
+12345678
 
 ## Architecture
 BMI Tracker follows the Clean Architecture pattern to maintain separation of concerns and facilitate scalability. The app is divided into the following components:
